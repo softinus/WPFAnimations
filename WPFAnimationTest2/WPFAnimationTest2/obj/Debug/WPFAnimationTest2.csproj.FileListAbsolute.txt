@@ -1,0 +1,13 @@
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\bin\Debug\WPFAnimationTest2.exe.config
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\bin\Debug\WPFAnimationTest2.exe
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\bin\Debug\WPFAnimationTest2.pdb
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\MainWindow.baml
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\MainWindow.g.cs
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\App.g.cs
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2_MarkupCompile.cache
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2.g.resources
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2.exe
+c:\users\mark\documents\visual studio 2013\Projects\WPFAnimationTest2\WPFAnimationTest2\obj\Debug\WPFAnimationTest2.pdb
